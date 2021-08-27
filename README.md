@@ -1,16 +1,18 @@
-### Hi there 👋
+### Rayman
+* [Rayman Control Panel](https://github.com/RayCarrot/RayCarrot.RCP.Metro)
+* [Ray1Editor](https://github.com/RayCarrot/RayCarrot.Ray1Editor)
+* [Rayman 1 BizHawk Tool](https://github.com/RayCarrot/RayCarrot.BizHawk.R1Tool)
 
-<!--
-**RayCarrot/RayCarrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BinarySerializer
+#### Base
+* [BinarySerializer](https://github.com/RayCarrot/BinarySerializer)
+* [BinaryDataExplorer](https://github.com/RayCarrot/BinaryDataExplorer)
 
-Here are some ideas to get you started:
+#### Extensions
+* [BinarySerializer.PS1](https://github.com/RayCarrot/BinarySerializer.PS1)
+* [BinarySerializer.GBA](https://github.com/RayCarrot/BinarySerializer.GBA)
+* [BinarySerializer.Image](https://github.com/RayCarrot/BinarySerializer.Image)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Games
+* [BinarySerializer.Ray1](https://github.com/RayCarrot/BinarySerializer.Ray1)
+* [BinarySerializer.Klonoa](https://github.com/RayCarrot/BinarySerializer.Klonoa)
