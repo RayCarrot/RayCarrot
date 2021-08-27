@@ -1,6 +1,7 @@
 ### Rayman
 * [Rayman Control Panel](https://github.com/RayCarrot/RayCarrot.RCP.Metro)
 * [Ray1Editor](https://github.com/RayCarrot/RayCarrot.Ray1Editor)
+* [Ray1Map](https://github.com/Adsolution/Ray1Map)
 * [Rayman 1 BizHawk Tool](https://github.com/RayCarrot/RayCarrot.BizHawk.R1Tool)
 
 ### BinarySerializer
