@@ -19,3 +19,6 @@
 
 #### Tools
 * [BinaryDataExplorer](https://github.com/RayCarrot/BinaryDataExplorer)
+
+### Other
+* [Klonoa Heroes Patcher](https://github.com/RayCarrot/KlonoaHeroesPatcher)
