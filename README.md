@@ -10,11 +10,16 @@
 
 #### Extensions
 * [BinarySerializer.PS1](https://github.com/BinarySerializer/BinarySerializer.PS1)
+* [BinarySerializer.PS2](https://github.com/BinarySerializer/BinarySerializer.PS2)
 * [BinarySerializer.GBA](https://github.com/BinarySerializer/BinarySerializer.GBA)
+* [BinarySerializer.GBA.Audio](https://github.com/BinarySerializer/BinarySerializer.GBA.Audio)
 * [BinarySerializer.Image](https://github.com/BinarySerializer/BinarySerializer.Image)
+* [BinarySerializer.Audio](https://github.com/BinarySerializer/BinarySerializer.Audio)
 
 #### Games
 * [BinarySerializer.Ray1](https://github.com/BinarySerializer/BinarySerializer.Ray1)
+* [BinarySerializer.OpenSpace](https://github.com/BinarySerializer/BinarySerializer.OpenSpace)
+* [BinarySerializer.UbiArt](https://github.com/BinarySerializer/BinarySerializer.UbiArt)
 * [BinarySerializer.Klonoa](https://github.com/BinarySerializer/BinarySerializer.Klonoa)
 
 #### Tools
@@ -22,3 +27,9 @@
 
 ### Other
 * [Klonoa Heroes Patcher](https://github.com/RayCarrot/KlonoaHeroesPatcher)
+
+### Old
+* [RayCarrot.IO](https://github.com/RayCarrot/RayCarrot.IO)
+* [RayCarrot.Binary]()
+* [RayCarrot.Rayman]()
+* [RayCarrot.Windows.Registry]()
