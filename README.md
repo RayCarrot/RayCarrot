@@ -28,6 +28,7 @@
 ### Other
 * [Klonoa Heroes Patcher](https://github.com/RayCarrot/KlonoaHeroesPatcher)
 * [Spyro GBA Localization Patcher](https://github.com/RayCarrot/SpyroGBALocPatcher)
+* [GBAC](https://github.com/RayCarrot/GBAC)
 
 ### Contributed
 * [GaXM](https://github.com/byvar/gaxm)
