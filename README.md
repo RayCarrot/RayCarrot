@@ -11,8 +11,8 @@
 #### Extensions
 * [BinarySerializer.PS1](https://github.com/BinarySerializer/BinarySerializer.PS1)
 * [BinarySerializer.PS2](https://github.com/BinarySerializer/BinarySerializer.PS2)
-* [BinarySerializer.GBA](https://github.com/BinarySerializer/BinarySerializer.GBA)
-* [BinarySerializer.GBA.Audio](https://github.com/BinarySerializer/BinarySerializer.GBA.Audio)
+* [BinarySerializer.Nintendo](https://github.com/BinarySerializer/BinarySerializer.Nintendo)
+* [BinarySerializer.Audio.GBA](https://github.com/BinarySerializer/BinarySerializer.GBA.Audio)
 * [BinarySerializer.Image](https://github.com/BinarySerializer/BinarySerializer.Image)
 * [BinarySerializer.Audio](https://github.com/BinarySerializer/BinarySerializer.Audio)
 
