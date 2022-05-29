@@ -26,6 +26,7 @@
 * [BinaryDataExplorer](https://github.com/RayCarrot/BinaryDataExplorer)
 
 ### Other
+* [Psychonauts Studio](https://github.com/RayCarrot/PsychonautsStudio)
 * [Klonoa Heroes Patcher](https://github.com/RayCarrot/KlonoaHeroesPatcher)
 * [Klonoa BytePair Encoder](https://github.com/RayCarrot/KlonoaBytePairEncoder)
 * [Spyro GBA Localization Patcher](https://github.com/RayCarrot/SpyroGBALocPatcher)
