@@ -31,6 +31,7 @@
 * [Klonoa BytePair Encoder](https://github.com/RayCarrot/KlonoaBytePairEncoder)
 * [Spyro GBA Localization Patcher](https://github.com/RayCarrot/SpyroGBALocPatcher)
 * [GBAC](https://github.com/RayCarrot/GBAC)
+* [Starfy 4 Font Converter](https://github.com/RayCarrot/Starfy4FontConverter)
 
 ### Contributed
 * [raymap](https://github.com/byvar/raymap)
