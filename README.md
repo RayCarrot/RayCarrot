@@ -4,6 +4,7 @@
 * [Ray1Map](https://github.com/Adsolution/Ray1Map)
 * [Rayman PS1 Modding](https://github.com/RayCarrot/rayman-ps1-modding)
 * [Rayman 1 BizHawk Tool](https://github.com/RayCarrot/RayCarrot.BizHawk.R1Tool)
+* [Rayman 3 GBA port to MonoGame](https://github.com/RayCarrot/OnyxCS.Gba.Rayman3)
 
 ### BinarySerializer
 #### Base
@@ -20,6 +21,7 @@
 #### Games
 * [BinarySerializer.Ray1](https://github.com/BinarySerializer/BinarySerializer.Ray1)
 * [BinarySerializer.OpenSpace](https://github.com/BinarySerializer/BinarySerializer.OpenSpace)
+* [BinarySerializer.Onyx.Gba](https://github.com/BinarySerializer/BinarySerializer.Onyx.Gba)
 * [BinarySerializer.UbiArt](https://github.com/BinarySerializer/BinarySerializer.UbiArt)
 * [BinarySerializer.Klonoa](https://github.com/BinarySerializer/BinarySerializer.Klonoa)
 
