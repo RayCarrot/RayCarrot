@@ -22,7 +22,7 @@
 #### Games
 * [BinarySerializer.Ray1](https://github.com/BinarySerializer/BinarySerializer.Ray1)
 * [BinarySerializer.OpenSpace](https://github.com/BinarySerializer/BinarySerializer.OpenSpace)
-* [BinarySerializer.Onyx.Gba](https://github.com/BinarySerializer/BinarySerializer.Onyx.Gba)
+* [BinarySerializer.Ubisoft.GbaEngine](https://github.com/BinarySerializer/BinarySerializer.Ubisoft.GbaEngine)
 * [BinarySerializer.UbiArt](https://github.com/BinarySerializer/BinarySerializer.UbiArt)
 * [BinarySerializer.Klonoa](https://github.com/BinarySerializer/BinarySerializer.Klonoa)
 
