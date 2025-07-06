@@ -35,6 +35,7 @@
 * [Spyro GBA Localization Patcher](https://github.com/RayCarrot/SpyroGBALocPatcher)
 * [GBAC](https://github.com/RayCarrot/GBAC)
 * [Starfy 4 Font Converter](https://github.com/RayCarrot/Starfy4FontConverter)
+* [Amaze DS Extractor](https://github.com/RayCarrot/AmazeDSExtractor)
 
 ### Contributed
 * [raymap](https://github.com/byvar/raymap)
