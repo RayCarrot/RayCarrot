@@ -4,6 +4,8 @@
 * [Ray1Map](https://github.com/Adsolution/Ray1Map)
 * [Rayman PS1 Modding](https://github.com/RayCarrot/rayman-ps1-modding)
 * [Rayman 1 BizHawk Tool](https://github.com/RayCarrot/RayCarrot.BizHawk.R1Tool)
+* [Rayman 1 Data Extractor](https://github.com/RayCarrot/Ray1DataExtractor)
+* [Rayman 1 Archive Repacker](https://github.com/RayCarrot/Ray1ArchiveRepacker)
 * [Rayman 3 GBA BizHawk Tool](https://github.com/RayCarrot/Rayman3GBABizHawkTool)
 * [Rayman 3 Readvanced](https://github.com/RayCarrot/Rayman3Readvanced)
 
@@ -17,6 +19,7 @@
 * [BinarySerializer.Audio.GBA](https://github.com/BinarySerializer/BinarySerializer.GBA.Audio)
 * [BinarySerializer.Image](https://github.com/BinarySerializer/BinarySerializer.Image)
 * [BinarySerializer.Audio](https://github.com/BinarySerializer/BinarySerializer.Audio)
+* [BinarySerializer.Disk](https://github.com/BinarySerializer/BinarySerializer.Disk)
 
 #### Games
 * [BinarySerializer.Ray1](https://github.com/BinarySerializer/BinarySerializer.Ray1)
