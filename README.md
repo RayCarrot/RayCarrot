@@ -47,5 +47,5 @@
 ### Contributed
 * [raymap](https://github.com/byvar/raymap)
 * [GaXM](https://github.com/byvar/gaxm)
-* [rayman-ps1-decomp](https://github.com/fuerchter/rayman-ps1-decomp)
+* [rayman-ps1-decomp](https://github.com/rayman-decomp/rayman-ps1-decomp)
 * [Rayverse](https://github.com/Falcury/rayverse)
