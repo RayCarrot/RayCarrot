@@ -43,6 +43,7 @@
 * [Onyx DS Extractor](https://github.com/RayCarrot/OnyxDSExtractor)
 * [Amaze DS Extractor](https://github.com/RayCarrot/AmazeDSExtractor)
 * [Multimedia Fusion Extractor](https://github.com/RayCarrot/MultimediaFusionExtractor)
+* [Bakesale (Eclipse Engine) Extractor](https://github.com/RayCarrot/BakesaleExtractor)
 
 ### Contributed
 * [raymap](https://github.com/byvar/raymap)
