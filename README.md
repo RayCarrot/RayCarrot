@@ -28,6 +28,7 @@
 * [BinarySerializer.Ubisoft.GbaEngine](https://github.com/BinarySerializer/BinarySerializer.Ubisoft.GbaEngine)
 * [BinarySerializer.Ubisoft.Onyx](https://github.com/BinarySerializer/BinarySerializer.Ubisoft.Onyx)
 * [BinarySerializer.UbiArt](https://github.com/BinarySerializer/BinarySerializer.UbiArt)
+* [BinarySerializer.Bakesale](https://github.com/BinarySerializer/BinarySerializer.Bakesale)
 * [BinarySerializer.Klonoa](https://github.com/BinarySerializer/BinarySerializer.Klonoa)
 
 #### Tools
