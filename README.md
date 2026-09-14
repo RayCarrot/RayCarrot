@@ -1,14 +1,14 @@
 ### Rayman
 * [Rayman Control Panel](https://github.com/RayCarrot/RayCarrot.RCP.Metro)
+* [Rayman 3 Readvanced](https://github.com/RayCarrot/Rayman3Readvanced)
 * [Ray1Editor](https://github.com/RayCarrot/RayCarrot.Ray1Editor)
 * [Ray1Map](https://github.com/Adsolution/Ray1Map)
 * [Rayman PS1 Modding](https://github.com/RayCarrot/rayman-ps1-modding)
-* [Rayman 1 BizHawk Tool](https://github.com/RayCarrot/RayCarrot.BizHawk.R1Tool)
 * [Rayman 1 Data Extractor](https://github.com/RayCarrot/Ray1DataExtractor)
 * [Rayman 1 Archive Repacker](https://github.com/RayCarrot/Ray1ArchiveRepacker)
 * [Rayman 1 Map Repacker](https://github.com/RayCarrot/Ray1MapRepacker)
+* [Rayman 1 BizHawk Tool](https://github.com/RayCarrot/RayCarrot.BizHawk.R1Tool)
 * [Rayman 3 GBA BizHawk Tool](https://github.com/RayCarrot/Rayman3GBABizHawkTool)
-* [Rayman 3 Readvanced](https://github.com/RayCarrot/Rayman3Readvanced)
 
 ### BinarySerializer
 #### Base
@@ -38,6 +38,7 @@
 * [Psychonauts Studio](https://github.com/RayCarrot/PsychonautsStudio)
 * [Klonoa Heroes Patcher](https://github.com/RayCarrot/KlonoaHeroesPatcher)
 * [Klonoa BytePair Encoder](https://github.com/RayCarrot/KlonoaBytePairEncoder)
+* [CrashNitroKart-GBA-Decomp](https://github.com/RayCarrot/CrashNitroKart-GBA-Decomp)
 * [Spyro GBA Localization Patcher](https://github.com/RayCarrot/SpyroGBALocPatcher)
 * [GBAC](https://github.com/RayCarrot/GBAC)
 * [Starfy 4 Font Converter](https://github.com/RayCarrot/Starfy4FontConverter)
